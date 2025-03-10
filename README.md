@@ -48,4 +48,4 @@
   - https://www.anaconda.com/
 )
 ## Contact
-Created by [) - Reach out at vinod.dhavle@gmail.com for collaborations!
+Created by @vinoddhavle - Reach out at vinod.dhavle@gmail.com for collaborations!
